@@ -9,14 +9,14 @@ main:
  # - title: "Teaching"
  #   url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Portefølje"
     url: /portfolio/
-        
-  - title: "Utforsking"
-    url: /year-archive/
     
   - title: "CV"
-    url: CV Konsulent.pdf 
+    url: files/CV Konsulent.pdf
+
+  - title: "Nåværende interesser"
+    url: /year-archive/
     
  # - title: "Guide"
  #   url: /markdown/

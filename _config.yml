@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Om meg"
+title                    : "  Om meg"
 title_separator          : "-"
 name                     : &name "Oliver Halhjem Tenmark"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "portfolio_bilde.png"
   name             : "Oliver Halhjem Tenmark"
   pronouns         : # example: "she/her"  
-  bio              : "Strukturert og har et øye for detaljer for å skape en rød tråd"
+  bio              : "· Jeg er nøye og systematisk, alltid med fokus på små detaljer for å sikre at alt henger godt sammen"
   location         : "Sandnes, Rogaland"
   employer         : "Mercy University"
   uri              : # URL
