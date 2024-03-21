@@ -14,14 +14,14 @@ name                     : &name "Oliver Halhjem Tenmark"
 description              : &description "personal description"
 url                      : https://olivertenmark.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/portfolio2" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "olivertenmark/portfolio2.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/portfolio_bilde.png"
+  avatar           : "portfolio_bilde.png"
   name             : "Oliver Halhjem Tenmark"
   pronouns         : # example: "she/her"  
   bio              : "Strukturert og har et øye for detaljer for å skape en rød tråd"
