@@ -13,7 +13,7 @@ main:
     url: /portfolio/
     
   - title: "CV"
-    url: files/CV Konsulent.pdf
+    url: /files/cv_konsulent.pdf
 
   - title: "Nåværende interesser"
     url: /year-archive/
