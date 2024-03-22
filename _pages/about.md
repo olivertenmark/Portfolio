@@ -7,11 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-
-
-## Akkurat ferdig med studier i Dataanalyse, med tillegsskompetanse i datavitenskap, og skikkelig fascinert av alt som har med tech og data å gjøre. 
-
-
-
-
+Jeg er akkurat ferdig med studier i **Dataanalyse**, med tillegsskompetanse i **datavitenskap**, og skikkelig fascinert av alt som har med <ins>tech</ins> og <ins>data</ins> å gjøre. 
 

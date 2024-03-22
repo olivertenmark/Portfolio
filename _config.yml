@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "  • Portefølje"
+title                    : "   Om meg"
 title_separator          : "-"
 name                     : &name "Oliver Halhjem Tenmark"
 description              : &description "personal description"
@@ -24,11 +24,11 @@ author:
   avatar           : "portfolio_bilde.png"
   name             : "Oliver Halhjem Tenmark"
   pronouns         : # example: "she/her"  
-  bio              : "• Nøyaktig og systematisk, med et øye for detaljer for å bevare sammenheng"
+  bio              : "• Nøyaktig og systematisk, med et øye for detaljer for å bevare sammenheng."
   location         : "Sandnes, Rogaland"
-  employer         : "Mercy University"
+  employer         : "Mercy University, New York"
   uri              : # URL
-  email            : "oliver.tenmark1@gmail.com" 
+  oliver.tenmark1@gmail.com: #"oliver.tenmark1@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
