@@ -9,13 +9,13 @@ main:
  # - title: "Teaching"
  #   url: /teaching/    
     
-  - title: "Portefølje"
+  - title: "Prosjekter"
     url: /portfolio/
     
   - title: "CV"
-    url: /files/cv_konsulent.pdf
+    url: /files/cv_olivertenmark.pdf
 
-  - title: "Nåværende interesser"
+  - title: "Interesser"
     url: /year-archive/
     
  # - title: "Guide"
