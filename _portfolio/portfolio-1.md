@@ -1,6 +1,6 @@
 ---
 title: "Analyse av arealbehov for ulike energi kilder"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/wind_mill.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='wind_mill.png'>"
 collection: portfolio
 ---
 
