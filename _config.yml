@@ -21,7 +21,7 @@ repository               : "olivertenmark/portfolio2.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "portfolio_bilde.png"
+  avatar           : "profile.jpg"
   name             : "Oliver Halhjem Tenmark"
   pronouns         : # example: "she/her"  
   bio              : "• Nøyaktig og systematisk, med et øye for detaljer for å bevare sammenheng."
